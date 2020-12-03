@@ -1,0 +1,11 @@
+{
+    "name": "tzmax/upics",
+    "description": "Used for Generate Calendar Vevent ics file.",
+    "authors": [
+        {
+            "name": "PBK-Bin",
+            "email": "bin@PBK6.cn"
+        }
+    ],
+    "require": {}
+}
